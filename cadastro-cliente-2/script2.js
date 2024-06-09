@@ -1,0 +1,1 @@
+console.log("Implementando arquivo de teste!");
